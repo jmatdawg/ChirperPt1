@@ -1,0 +1,22 @@
+.welcome {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(241, 155, 42);
+
+}
+.user{
+  bottom: 7em;
+  left: 1em;
+  position: relative;
+}
+
+.avatar {
+  height: 15em;
+  width: 15em;
+  border: solid 5px white
+}
+
+.check {
+  height: 2em;
+  width: 2em;
+}
